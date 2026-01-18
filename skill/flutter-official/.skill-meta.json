@@ -1,0 +1,7 @@
+{
+  "source": "local",
+  "name": "flutter-official",
+  "description": "Flutter & Dart official development standards. Use when writing, reviewing, or architecting Flutter/Dart code. Covers Effective Dart (style, usage, design), app architecture (UI/data layers, repositories, ViewModels), BLoC/Cubit patterns, Riverpod, VGV linting rules, and testing. Sources: dart.dev, docs.flutter.dev, bloclibrary.dev, riverpod.dev, very_good_analysis.",
+  "installedAt": "2026-01-17T15:04:00.000Z",
+  "updatedAt": "2026-01-17T15:04:00.000Z"
+}
